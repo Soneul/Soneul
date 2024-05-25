@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soneul&label=Profile%20views&color=0e75b6&style=flat" alt="soneul" /> </p>
 
-- 🌱 I’m currently learning **Python, Machine-Learning, React**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **AlvinTan.HZ@gmail.com**
 
